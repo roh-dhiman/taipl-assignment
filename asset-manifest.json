@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/taipl-assignment/static/css/main.985fdc18.chunk.css",
+    "main.js": "/taipl-assignment/static/js/main.e8740773.chunk.js",
+    "main.js.map": "/taipl-assignment/static/js/main.e8740773.chunk.js.map",
+    "runtime-main.js": "/taipl-assignment/static/js/runtime-main.05193877.js",
+    "runtime-main.js.map": "/taipl-assignment/static/js/runtime-main.05193877.js.map",
+    "static/js/2.e9f86d86.chunk.js": "/taipl-assignment/static/js/2.e9f86d86.chunk.js",
+    "static/js/2.e9f86d86.chunk.js.map": "/taipl-assignment/static/js/2.e9f86d86.chunk.js.map",
+    "index.html": "/taipl-assignment/index.html",
+    "static/css/main.985fdc18.chunk.css.map": "/taipl-assignment/static/css/main.985fdc18.chunk.css.map",
+    "static/js/2.e9f86d86.chunk.js.LICENSE.txt": "/taipl-assignment/static/js/2.e9f86d86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05193877.js",
+    "static/js/2.e9f86d86.chunk.js",
+    "static/css/main.985fdc18.chunk.css",
+    "static/js/main.e8740773.chunk.js"
+  ]
+}
